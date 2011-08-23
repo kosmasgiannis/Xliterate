@@ -1,0 +1,10 @@
+etc
+etc/*
+*.dll
+*.cfg
+*.dof
+*.res
+*.~*
+*.dcu
+*.ddp
+*.exe
